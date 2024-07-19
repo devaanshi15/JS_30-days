@@ -1,0 +1,1 @@
+//3. Object Iteration Script: Write a script that demonstrates iterating over an object's properties using for...in loop and object.keys/object.values.
